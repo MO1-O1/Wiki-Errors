@@ -9,9 +9,9 @@ A curated database of common tech errors with automated fixes. Open-source batch
 Search for your error code or browse categories below.
 
 ## 📂 Categories
-- [Windows Errors](https://mo1-o1.github.io/Wiki-Errors.com/windows/)
-- [linux-errors](https://mo1-o1.github.io/Wiki-Errors.com/linux/)
-- [android-errors](https://mo1-o1.github.io/Wiki-Errors.com/android/)
+- [Windows Errors](https://mo1-o1.github.io/Wiki-Errors/windows/)
+- [linux-errors](https://mo1-o1.github.io/Wiki-Errors/linux/)
+- [android-errors](https://mo1-o1.github.io/Wiki-Errors/android/)
 
 ## 🔧 Latest Fixes
 - 0x80070057 - Parameter is incorrect
