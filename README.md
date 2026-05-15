@@ -10,8 +10,8 @@ Search for your error code or browse categories below.
 
 ## 📂 Categories
 - [Windows Errors](https://mo1-o1.github.io/Wiki-Errors.com/windows/)
-- [linux-errors](https://mo1-o1.github.io/Wiki-Errors.com/windows/)
-- [android-errors](https://mo1-o1.github.io/Wiki-Errors.com/windows/)
+- [linux-errors](https://mo1-o1.github.io/Wiki-Errors.com/linux/)
+- [android-errors](https://mo1-o1.github.io/Wiki-Errors.com/android/)
 
 ## 🔧 Latest Fixes
 - 0x80070057 - Parameter is incorrect
@@ -19,3 +19,10 @@ Search for your error code or browse categories below.
 
 ## ⚠️ Safety
 All batch scripts are open-source. Review before running. Use at your own risk.
+
+
+## Join a community
+
+[reddit](https://www.reddit.com/r/Wiki_Errors/)
+
+[discord](https://discord.gg/7vAJEuByvR)
